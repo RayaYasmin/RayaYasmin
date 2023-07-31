@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there, I'm Raya Yasmin! 👋
+### Web Developer
 
-<!--
-**RayaYasmin/RayaYasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 💼 
 
-Here are some ideas to get you started:
+- Laravel
+- PHP
+- Vue.js
+- JAVA
+- JavaScript
+- Bootstrap
+- CSS
+- HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me👩‍💻
+
+I'm a Computer Science Engineering graduate passionate about building web applications and software solutions.I love working on full-stack projects. Constantly curious, I enjoy learning and exploring new technologies to keep up with the ever-evolving software development landscape. Soon I'm going to update my profile with all of my work and projects.
+
+<!--## Current Projects
+
+- [Project 1](link-to-project-1): Short description of the project.
+- [Project 2](link-to-project-2): Short description of the project.
+
+## Connect with Me
+
+Let's collaborate and contribute to the software ecosystem together! You can reach me via:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
+- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+Feel free to explore my repositories and don't forget to ⭐ the ones you find interesting!
+
+
+Optional: Add any other sections you want to showcase, such as achievements, blog posts, or other social media profiles.
 -->
+
+
