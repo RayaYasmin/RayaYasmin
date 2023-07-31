@@ -1,4 +1,4 @@
-# Hi there, I'm Raya Yasmin! 👋
+## Hi there, I'm Raya Yasmin! 👋
 ### Web Developer
 
 ## Skills 💼 
