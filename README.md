@@ -11,6 +11,7 @@
 - Bootstrap
 - CSS
 - HTML
+- MySQL
 
 ## About Me👩‍💻
 
